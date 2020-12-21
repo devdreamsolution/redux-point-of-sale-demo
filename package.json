@@ -207,7 +207,7 @@
     "electron-rebuild": "^1.8.2",
     "file-saver": "^2.0.0-rc.3",
     "font-awesome": "^4.7.0",
-    "highcharts": "^6.1.1",
+    "highcharts": "^7.2.2",
     "history": "^4.7.2",
     "moment": "^2.22.2",
     "mousetrap": "^1.6.2",
